@@ -2,8 +2,9 @@ body {
   padding-top: 70px;
 }
 
-img {
-  margin: auto;
+.item img {
+  height: 400px;
+  width: auto;
 }
 
 .carousel-indicators {
