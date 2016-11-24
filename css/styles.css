@@ -17,3 +17,7 @@ img {
 .carousel-indicators li {
   border-color: #222;
 }
+
+.slide-title {
+  text-align: center;
+}
