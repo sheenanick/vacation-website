@@ -6,6 +6,11 @@ img {
   margin: auto;
 }
 
+.main-title {
+  text-align: center;
+  font-size: 48px;
+}
+
 .carousel-indicators {
   bottom: 0;
 }
