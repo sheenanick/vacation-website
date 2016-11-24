@@ -13,6 +13,10 @@ This is a webpage about vacationing in Thailand. It has information about Thaila
 * `git clone https://github.com/sheenanick/vacation-website`
 * Open the html file with the browser of your choice
 
+## GitHub Pages
+
+See this webpage on GitHub Pages [here](https://sheenanick.github.io/vacation-website/).
+
 ## Support and Contact Details
 
 Please feel free to contact sheenanick@gmail.com if you have any issues or questions, ideas or concerns.
